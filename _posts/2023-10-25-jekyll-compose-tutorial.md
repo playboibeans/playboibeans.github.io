@@ -5,6 +5,7 @@ date: 2023-10-25 14:25 +0800
 description: Jekyll Compose 教學
 categories: [Blog]
 tags: [jekyll] 
+toc: true
 ---
 # Jekyll Compose 
 在運用 jekyll 撰寫部落格的時候我們會需要在文章 md 檔的開頭手動註明 **Front Matter**<br>
@@ -19,7 +20,7 @@ tags: [jekyll]
 ---
 ```
 而且必須將文章檔名設定為 **YYYY-MM-DD-TITLE.EXTENSION** 的格式<br>
-例如這邊文章的檔案名稱就是：<br>
+例如這篇文章的檔案名稱就是：<br>
 `2023-10-25-jekyll-compose-tutorial.md`<br><br>
 說實在每次寫文章都要重新打一次有點麻煩<br>
 這時候我們就可以使用 [Jekyll Compose](https://github.com/jekyll/jekyll-compose){:target="_blank"}  這個擴充功能來使用像 Hexo 一樣的自動產生模板<br>
