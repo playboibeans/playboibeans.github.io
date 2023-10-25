@@ -9,7 +9,7 @@ toc: true
 ---
 # Jekyll Compose 
 在運用 jekyll 撰寫部落格的時候我們會需要在文章 md 檔的開頭手動註明 **Front Matter**<br>
-例如這邊文章就需要列出：<br>
+例如這篇文章就需要列出：<br>
 ```markdown
 ---
 layout: post
