@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://playboibeans.com"
 
 github:
-  username: playboibeans # change to your github username
+  username:  # change to your github username
 
 twitter:
-  username: 19798eth # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -112,7 +112,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "playboibeans.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
