@@ -22,7 +22,7 @@ tags: [jekyll]
 例如這邊文章的檔案名稱就是：<br>
 `2023-10-25-jekyll-compose-tutorial.md`<br><br>
 說實在每次寫文章都要重新打一次有點麻煩<br>
-這時候我們就可以使用 [Jekyll Compose](https://github.com/jekyll/jekyll-compose) 這個擴充功能來使用像 Hexo 一樣的自動產生模板<br>
+這時候我們就可以使用 [Jekyll Compose](https://github.com/jekyll/jekyll-compose){:target="_blank"}  這個擴充功能來使用像 Hexo 一樣的自動產生模板<br>
 
 # 使用方式
 首先我們要先在部落格資料夾中的 Gemfile 中加上這條：<br>
@@ -66,16 +66,13 @@ jekyll_compose:
 ```yml
 jekyll_compose:
   default_front_matter:
-    drafts:
-      description:
-      categories: []
-      tags: []
     posts:
       description:
       categories: []
       tags: []
 ```
+這樣就能在每一次新增 post 時自動帶入 description、categories 和 tags 這三項設定<br>
 其中 description 可以為文章新增簡介<br>
-categories 可以填入分類<br>
-tags 則可加入標籤<br>
-更多能增加到 Front Matter 中的變數可以參考 [Hugo 這篇文章](https://gohugo.io/content-management/front-matter/#front-matter-variables)<br>
+categories 可以填入文章分類<br>
+tags 則可加入文章標籤<br>
+更多能增加到 Front Matter 中的變數可以參考 [Hugo 這篇文章](https://gohugo.io/content-management/front-matter/#front-matter-variables){:target="_blank"} <br>
