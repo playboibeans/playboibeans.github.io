@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://playboibeans.com"
 
 github:
-  username:  # change to your github username
+  username: username # change to your github username
 
 twitter:
-  username:  # change to your twitter username
+  username: username  # change to your twitter username
 
 social:
   # Change to your full name.
