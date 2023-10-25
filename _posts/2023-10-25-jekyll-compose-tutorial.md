@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Compose 擴充功能介紹
+title: Jekyll Compose 擴充功能使用
 date: 2023-10-25 14:25 +0800
 description: Jekyll Compose 教學
 categories: [Blog]
