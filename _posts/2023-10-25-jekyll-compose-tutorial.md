@@ -7,7 +7,7 @@ categories: [Blog]
 tags: [jekyll] 
 toc: true
 ---
-# Jekyll Compose 
+## Jekyll Compose 
 在運用 jekyll 撰寫部落格的時候我們會需要在文章 md 檔的開頭手動註明 **Front Matter**<br>
 例如這篇文章就需要列出：<br>
 ```markdown
@@ -25,7 +25,7 @@ tags: [jekyll]
 說實在每次寫文章都要重新打一次有點麻煩<br>
 這時候我們就可以使用 [Jekyll Compose](https://github.com/jekyll/jekyll-compose){:target="_blank"}  這個擴充功能來使用像 Hexo 一樣的自動產生模板<br>
 
-# 使用方式
+## 使用方式
 首先我們要先在部落格資料夾中的 Gemfile 中加上這條：<br>
 ```
 gem 'jekyll-compose', group: [:jekyll_plugins]
@@ -55,7 +55,7 @@ title: My New Post
 date: 2023-10-25 15:26 +0800
 ---
 ```
-# 自訂選項
+## 自訂選項
 基本上這樣子就完成了 jekyll compose 的設定和使用<br>
 但如果覺得預設的 Front Matter 太精簡的話也可以自訂成喜歡的樣子<br>
 首先我們需要在 _config.yml 檔案中新增以下內容：
