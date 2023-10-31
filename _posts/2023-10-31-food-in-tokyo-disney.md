@@ -33,7 +33,6 @@ image:
 
 
 ### 櫻花餐廳
-![櫻花餐廳](/assets/img/disney-food/06.webp){: lqip="/assets/img/disney-food/lqip/06.webp" }{: w="250" h="250" }{: .left }
 [櫻花餐廳](https://www.tokyodisneyresort.jp/tc/tds/restaurant/detail/432/)位在美國海濱區域，是園區內比較高單價定位的餐廳之一。<br>
 一樣，我們在肚子已經很餓的時候做了這樣的衝動決定（再不做功課啊）。說真的這輩子沒想過我會在東京迪士尼踏進櫻花餐廳這種等級的餐廳，而結論也是我確實不該踏進這樣的餐廳。<br>
 怎麼說呢，就是非常不划算，因為...真的沒有很好吃...<br>
@@ -84,7 +83,7 @@ image:
 
 |好吃的咖哩|好吃的秘訣|
 |:---:|:---:|
-|![頑熊餐廳](/assets/img/disney-food/18.webp){: lqip="/assets/img/disney-food/lqip/18.webp" }|!![頑熊餐廳](/assets/img/disney-food/17.webp){: lqip="/assets/img/disney-food/lqip/17.webp" }|
+|![頑熊餐廳](/assets/img/disney-food/18.webp){: lqip="/assets/img/disney-food/lqip/18.webp" }|![頑熊餐廳](/assets/img/disney-food/17.webp){: lqip="/assets/img/disney-food/lqip/17.webp" }|
 
 ## 攤車零食
 
@@ -96,19 +95,19 @@ image:
 
 
 ### 米奇冰棒 
+酸甜的熱帶水果風味冰棒，沒什麼好說的，就是可愛的冰棒！<br>其實比較想吃米妮的莓果口味，<br>但造訪兩那天整個園區不知道為什麼都沒賣。
 
-|:---:|
-|![米奇冰棒](/assets/img/disney-food/04.webp){: lqip="/assets/img/disney-food/lqip/04.webp" }{: w="300" h="300" }|酸甜的熱帶水果風味冰棒，沒什麼好說的，就是可愛的冰棒！<br>其實比較想吃米妮的莓果口味，<br>但造訪兩那天整個園區不知道為什麼都沒賣。|
+![米奇冰棒](/assets/img/disney-food/04.webp){: lqip="/assets/img/disney-food/lqip/04.webp" }
 
 ### 馬鈴薯吉拿棒
 
-|:---:|
-|![馬鈴薯吉拿棒](/assets/img/disney-food/10.webp){: lqip="/assets/img/disney-food/lqip/10.webp" }{: w="300" h="300" }|TikTok 上有人說好吃有人說不好吃的馬鈴薯吉拿棒，<br>裡頭有包肉醬（吃起來有番茄醬味），<br>我的評價是不好吃，吉拿棒還是吃甜的就好 xd。|
+TikTok 上有人說好吃有人說不好吃的馬鈴薯吉拿棒，<br>裡頭有包肉醬（吃起來有番茄醬味），<br>我的評價是不好吃，吉拿棒還是吃甜的就好 xd。
+
+![馬鈴薯吉拿棒](/assets/img/disney-food/10.webp){: lqip="/assets/img/disney-food/lqip/10.webp" }
 
 ### 煙燻火雞腿
-
-|:---:|
-|![煙燻火雞腿](/assets/img/disney-food/19.webp){: lqip="/assets/img/disney-food/lqip/19.webp" }{: w="300" h="300" }|不知道為什麼講到迪士尼食物第一個想到的是這支煙燻火雞腿，<br>所以也很應景的在最後的傍晚遊行買了一隻來啃，<br>嗯！其實沒很好吃捏！而且還很會卡牙縫氣死！<br>可能小時候的記憶太過美好了。|
+不知道為什麼講到迪士尼食物第一個想到的是這支煙燻火雞腿，<br>所以也很應景的在最後的傍晚遊行買了一隻來啃，<br>嗯！其實沒很好吃捏！而且還很會卡牙縫氣死！<br>可能小時候的記憶太過美好了。
+![煙燻火雞腿](/assets/img/disney-food/19.webp){: lqip="/assets/img/disney-food/lqip/19.webp" }
 
 
 ## 結語
