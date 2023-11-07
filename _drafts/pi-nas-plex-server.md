@@ -31,6 +31,19 @@ tags:
 
 ## 安裝 Raspberry Pi OS
 首先先以其他電腦下載 [Raspberry Pi Imager](https://www.raspberrypi.com/software/){:target='_blank'} 來將 Raspberry Pi OS 燒錄到 SD 卡中。<br>
+![Pi Installation](/assets/img/pi/pi-install/01.webp)
+![Pi Installation](/assets/img/pi/pi-install/02.webp)
+![Pi Installation](/assets/img/pi/pi-install/03.webp)
+![Pi Installation](/assets/img/pi/pi-install/04.webp)
+![Pi Installation](/assets/img/pi/pi-install/05.webp)
+![Pi Installation](/assets/img/pi/pi-install/06.webp)
+![Pi Installation](/assets/img/pi/pi-install/07.webp)
+![Pi Installation](/assets/img/pi/pi-install/08.webp)
+![Pi Installation](/assets/img/pi/pi-install/09.webp)
+![Pi Installation](/assets/img/pi/pi-install/10.webp)
+![Pi Installation](/assets/img/pi/pi-install/11.webp)
+![Pi Installation](/assets/img/pi/pi-install/12.webp)
+
 然後 SSH 進到 Pi 裡。
 
 ## 建立 OpenMediaVault NAS 系統
